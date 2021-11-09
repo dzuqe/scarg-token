@@ -1,10 +1,12 @@
-[
-  {
-    "name": "Scarred Entertainment",
-    "address": "0x67eD879bf30FED6E1A935970DE1b5850D56F8f46",
-    "symbol": "SCARG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/e9NEOl1.png"
-  }
-]
+{
+  [
+    {
+      "name": "Scarred Entertainment",
+      "address": "0x67eD879bf30FED6E1A935970DE1b5850D56F8f46",
+      "symbol": "SCARG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/e9NEOl1.png"
+    }
+  ]
+}
