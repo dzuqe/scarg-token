@@ -1,12 +1,33 @@
 {
-  [
+  "name": "Polygon Gaming Tokens",
+  "logoURI": "https://i.imgur.com/e9NEOl1.png",
+  "keywords": [
+    "gaming"
+  ],
+  "tags": {
+    "gaming": {
+      "name": "Gaming Token",
+      "description": "Tokens that are used in Polygon #PlayToEarn games."
+    }
+  },
+  "timestamp": "2021-11-09T00:00:00+00:00",
+  "tokens": [
     {
-      "name": "Scarred Entertainment",
+      "chainId": 137,
       "address": "0x67eD879bf30FED6E1A935970DE1b5850D56F8f46",
       "symbol": "SCARG",
+      "name": "Scarred Entertainment",
       "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.imgur.com/e9NEOl1.png"
+      "logoURI": "https://i.imgur.com/e9NEOl1.png",
+      "tags": [
+        "gaming"
+      ]
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
+
